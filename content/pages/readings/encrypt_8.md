@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: Bush Administration Memo on Digital Telephony
 uid: 77b21e64-747a-8e83-1656-e537644f3ba8

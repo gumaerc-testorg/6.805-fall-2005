@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: The Encryption Controversy 1994-1997
 uid: 296da733-fbe4-0232-14bf-e7c4a490acc1

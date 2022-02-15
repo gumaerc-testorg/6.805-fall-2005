@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: Sampling from the Crypto Debate -- 1997
 uid: c7febcf1-84c0-a209-b4c3-d44c8619abd0

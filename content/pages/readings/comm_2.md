@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: Selected Topics in Anonymity
 uid: 65dd21f1-6d16-c2e1-6a5e-e05f8e9bdbb0

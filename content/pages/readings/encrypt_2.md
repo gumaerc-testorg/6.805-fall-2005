@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: '1994: The Digital Telephony Act (CALEA)'
 uid: 2eb119a8-6ab9-4df2-aa3e-11ab30e1ad94

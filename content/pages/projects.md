@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 4cc37cd4-cf07-ae38-060e-3365a90eb3a4
 ---
@@ -43,7 +46,7 @@ Harvey Jones and José Hiram Soltren
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Get to Know GoogleTM: Because They Know You
+Get to Know Google{{< sup "TM" >}}: Because They Know You
 {{< tdclose >}}
 {{< tdopen >}}
 Stefanie Alki Delichatsios and Temitope Sonuyi

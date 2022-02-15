@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: '1994: Clipper (The Escrowed Encryption Standard)'
 uid: 1969ffb5-c1cf-c678-21f5-e510e32c3852

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: 'The Internet Censorship Saga: 1994-1997'
 uid: cdf01677-125b-e282-52d6-3489e47faa8f
