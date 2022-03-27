@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: leahyjuly21.pdf
 uid: 4f444874-db48-864e-bd3e-1af8b2f74de1

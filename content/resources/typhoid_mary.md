@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: typhoid_mary.pdf
 uid: e306d9ac-793c-21f0-ca8f-771c111bc777

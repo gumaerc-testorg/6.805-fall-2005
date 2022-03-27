@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4cc37cd4-cf07-ae38-060e-3365a90eb3a4
 resourcetype: Document
 title: tcpa_pd_pape.pdf
 uid: 02d7e3f6-e823-e9f5-71af-ebb1dfccc798

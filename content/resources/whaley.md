@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4cc37cd4-cf07-ae38-060e-3365a90eb3a4
 resourcetype: Document
 title: whaley.pdf
 uid: 2b47dcc6-25e8-9b88-6053-408a3aff05f7

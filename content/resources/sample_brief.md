@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0c0ceeb1-336c-6f25-06e8-0089d47cd2db
 resourcetype: Document
 title: sample_brief.pdf
 uid: 70d03860-0894-5ac1-6d5a-2790ce8fe411

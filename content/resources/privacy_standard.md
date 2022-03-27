@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4cc37cd4-cf07-ae38-060e-3365a90eb3a4
 resourcetype: Document
 title: privacy_standard.pdf
 uid: 57b689e1-99d1-bf45-de7c-6fd5b163a74b

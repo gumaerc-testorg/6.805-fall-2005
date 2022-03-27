@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: lpfamicus.pdf
 uid: f156e94c-1f8f-6cf1-6706-66668b57ce9d

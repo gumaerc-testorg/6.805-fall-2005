@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: jane_thatcher.pdf
 uid: 4b2cf17c-8a3c-283a-5ccf-63d73fdc5572

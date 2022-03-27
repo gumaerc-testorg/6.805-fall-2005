@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0c0ceeb1-336c-6f25-06e8-0089d47cd2db
 resourcetype: Document
 title: privacy_sites.pdf
 uid: e9690568-7c6f-7f3a-530b-1e957ebc590c

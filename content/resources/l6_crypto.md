@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 19f0a64c-acc4-5262-e25a-1fb3549cb986
 resourcetype: Document
 title: l6_crypto.pdf
 uid: ff32215a-c649-8e65-3a6f-4f1d7ddce63c

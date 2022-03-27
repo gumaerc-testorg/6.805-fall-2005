@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: gephardtaug20.pdf
 uid: b1701005-bdbf-fe0e-aba7-755bcd9880f9

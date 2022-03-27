@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4cc37cd4-cf07-ae38-060e-3365a90eb3a4
 resourcetype: Document
 title: mbtafinal_prvacy.pdf
 uid: b0a38781-f15e-f5f5-d184-532389a00f15

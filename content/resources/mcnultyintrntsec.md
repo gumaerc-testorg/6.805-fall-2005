@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: mcnultyintrntsec.pdf
 uid: 5073aa24-11a1-0a2d-9c69-5eca98c6462d

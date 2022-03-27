@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: acluamicusbrief.pdf
 uid: 7e0820af-3c6f-a557-e1aa-fc520bfab2ce

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0c0ceeb1-336c-6f25-06e8-0089d47cd2db
 resourcetype: Document
 title: plenary_cort_sta.pdf
 uid: 9b1bfd29-89ba-f222-f1fc-68d51acdf0f2

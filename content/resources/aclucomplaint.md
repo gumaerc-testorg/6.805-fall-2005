@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: aclucomplaint.pdf
 uid: 5f6a73b3-7de1-49dc-0574-a7eaaf872ba2

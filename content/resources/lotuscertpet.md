@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: lotuscertpet.pdf
 uid: 57eeb3c9-8bd3-947a-72f7-01fa15fead0f

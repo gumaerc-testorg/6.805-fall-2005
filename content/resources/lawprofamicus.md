@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: lawprofamicus.pdf
 uid: 73c0b4b4-6d16-c2f8-081f-87edc2a8c3fa

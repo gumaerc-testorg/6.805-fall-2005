@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0c0ceeb1-336c-6f25-06e8-0089d47cd2db
 resourcetype: Document
 title: rotisserie.pdf
 uid: 8e97e4d7-0575-4b29-d873-3fbb06da0d79
