@@ -10,7 +10,7 @@ title: Miscellaneous Items on Computer Crime
 uid: 7845a8dd-42d0-3d39-dd4a-891fc18635d3
 ---
 
-*   [Back to Computer Crime]({{< baseurl >}}/pages/readings/read_tlp1)
+*   {{< resource_link 0738894d-b101-33b1-08e4-530fc024c125 "Back to Computer Crime" >}}
 
 These are some things culled from the net over the past couple of years. You may find them useful as a source for paper topics or other readings.
 

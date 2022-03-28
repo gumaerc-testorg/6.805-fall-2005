@@ -12,7 +12,7 @@ uid: cb1d83bd-b95a-e98d-a73f-cfdda4f3319f
 
 *   [General Readings for this Topic](#general)
 *   [Supreme Court Decisions](#landmark)
-*   [The Internet Censorship Saga: 1994-1997]({{< baseurl >}}/pages/readings/comm_1)
+*   {{< resource_link cdf01677-125b-e282-52d6-3489e47faa8f "The Internet Censorship Saga: 1994-1997" >}}
 *   [Other Material for this Topic](#other)
     *   [Anonymity](#anon)
     *   [University Computer Policies](#policy)
@@ -65,7 +65,7 @@ In doing research on these and other cases, one outstanding reference is the Lib
 {{< anchor "censorship" >}}{{< /anchor >}}The Internet Censorship Saga: 1994-1997
 ---------------------------------------------------------------------------------
 
-This extensive story has a [page of its own]({{< baseurl >}}/pages/readings/comm_1).
+This extensive story has a {{< resource_link cdf01677-125b-e282-52d6-3489e47faa8f "page of its own" >}}.
 
 {{< anchor "other" >}}{{< /anchor >}}Other Material
 ---------------------------------------------------
@@ -86,7 +86,7 @@ Many sticky issues of "civil behavior" on the network continue to be played out 
 *   [MITnet Rules of Use](http://web.mit.edu/olh/Rules/#mitnet). This is part of the document [Welcome to Athena](http://web.mit.edu/olh/Welcome/rules.html).
 *   The Civil Liberties Union of Harvard. "Report on Computers at Harvard." November 1995.  
     This is a set of recommendations put out in November 1995, by the The Civil Liberties Union of Harvard, with suggested computer use policies to be adopted by Harvard. (Were any of these adopted? How do they compare with MIT's policies?)
-*   Here are some hypothetical discussion cases on university computing policy, created by Greg Jackson, formerly MIT's Director of Academic Computing: Alpha Sigma ([PDF]({{< baseurl >}}/resources/alpha_sigma)), Jane Thatcher ([PDF]({{< baseurl >}}/resources/jane_thatcher)), Judy Hamilton ([PDF]({{< baseurl >}}/resources/judy_hamilton)), Malekh Salimi ([PDF]({{< baseurl >}}/resources/malekh_salimi)), Michael Zareny ([PDF]({{< baseurl >}}/resources/michael_zareny)), Typhoid Mary ([PDF]({{< baseurl >}}/resources/typhoid_mary))
+*   Here are some hypothetical discussion cases on university computing policy, created by Greg Jackson, formerly MIT's Director of Academic Computing: Alpha Sigma ({{< resource_link 19a61fa7-5cee-3053-729c-24a94d217644 "PDF" >}}), Jane Thatcher ({{< resource_link 4b2cf17c-8a3c-283a-5ccf-63d73fdc5572 "PDF" >}}), Judy Hamilton ({{< resource_link 8c991545-c42f-7402-bd7a-e3e23dcc0289 "PDF" >}}), Malekh Salimi ({{< resource_link a9fa69d6-1f69-9b9e-661c-3cce6740704a "PDF" >}}), Michael Zareny ({{< resource_link f235d7e1-d13a-d1ca-7d34-2a45a398d6be "PDF" >}}), Typhoid Mary ({{< resource_link e306d9ac-793c-21f0-ca8f-771c111bc777 "PDF" >}})
 *   Mitchell, Melissa. "Electronic misbehavior' takes many forms on the Internet." University of Illinois faculty newsletter, 1994.  
     This article describes the approach to computer policy at UI.
 *   Kovaleski, Serge F. "Universities Vexed by Use of Their Internet Connections for Hate Mail." _The Washington Post_, August 4, 1995.

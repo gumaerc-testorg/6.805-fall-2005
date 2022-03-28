@@ -102,7 +102,7 @@ This received notoriety with the publication of Cliff Stoll's best-seller The Cu
 The 1990 raid on Steve Jackson Games (and Operation Sun Devil) are described in the [book by Bruce Sterling](https://www.amazon.com/Hacker-Crackdown-Disorder-Electronic-Frontier/dp/055356370X) and in the paper by John Perry Barlow. With the help of the EFF, Jackson sued the Secret Service for violation of the Electronic Communications Privacy Act. The District Court held that the Secret Service violated the Privacy Protection Act (which protects publishers) and that it had violated the section of the EPCA that protects access to stored communications. But the Court did not agree that seizing unread electronic mail was an "interception" under the provisions of the EPCA. Jackson appealed this decision, but the decision of the lower court was affirmed.
 
 *   For an extensive collection of documents and commentary, see the Web page devoted to Steve Jackson Games vs. the Secret Service.
-*   Appellate court ruling on Steve Jackson Games Suit, October 31, 1994 ([PDF]({{< baseurl >}}/resources/sjgappeal))
+*   Appellate court ruling on Steve Jackson Games Suit, October 31, 1994 ({{< resource_link 7b6eba48-36e1-a21f-27cb-ec474f88bd7a "PDF" >}})
 *   The [EFF Legal cases archive on SJG](https://www.eff.org/cases/steve-jackson-games-v-secret-service-case-archive)
 
 1993: Homolka-Teale Media Ban
@@ -118,9 +118,9 @@ In April 1994, MIT junior David LaMacchia was indicted for conspiracy to commit 
 
 In summer 1994, Robert and Carleen Thomas were convicted of violating anti-obscenity laws, on the grounds that their California BBS (Amateur Action) was used to transmit obscene material to Tennessee. This case raises important issues about the meaning of community standards with regard to the net, as discussed in this article by Godwin, Mike. "BBS Obscenity Case Raises New Legal Issues." Virtual Community Standards. On January 29, 1996, US Court of Appeals for the Sixth Circuit upheld the Thomas's conviction
 
-*   Here is an Amicus brief ([PDF]({{< baseurl >}}/resources/effamicusbrief)) filed by the Electronic Frontier Foundation, in the appeal of the Thomases' conviction.
-*   Here is another Amicus brief ([PDF]({{< baseurl >}}/resources/acluamicusbrief)) filed by the American Civil Liberties Union.
-*   Here is the Appeals Court decision ([PDF]({{< baseurl >}}/resources/appealdecision)) upholding the conviction.  
+*   Here is an Amicus brief ({{< resource_link 274e9f56-7739-a5dd-bcee-55a3ea81011d "PDF" >}}) filed by the Electronic Frontier Foundation, in the appeal of the Thomases' conviction.
+*   Here is another Amicus brief ({{< resource_link 7e0820af-3c6f-a557-e1aa-fc520bfab2ce "PDF" >}}) filed by the American Civil Liberties Union.
+*   Here is the Appeals Court decision ({{< resource_link 20e35c14-928e-e119-5160-f2916ed73b27 "PDF" >}}) upholding the conviction.  
      
 
 1995: Jake Baker Arrest
@@ -195,7 +195,7 @@ On June 25, 1996, CIA Director John Deutch testified before the Senate Governmen
 
 [Report of the Defense Science Board Task Force on Information Warfare - Defense](http://cryptome.org/iwdmain.htm), November 1996. The Defense Science Board (a government advisory group) commissioned a task force to make recommendations on how to defend against information warfare. This is a long report, so before diving in, you should look at the story on the report's release in _Federal Computer Week_.
 
-F. Lynn McNulty, Internet Security ([PDF]({{< baseurl >}}/resources/mcnultyintrntsec)). Before the U.S. House of Representatives Subcommittee on Science Committee on Science, Space, and Technology, March 22, 1994. McNulty is Associate Director for Computer Security at the National Institute of Standards and Technology. This is a summary of NIST's concerns about Internet security and ideas for addressing them.
+F. Lynn McNulty, Internet Security ({{< resource_link 5073aa24-11a1-0a2d-9c69-5eca98c6462d "PDF" >}}). Before the U.S. House of Representatives Subcommittee on Science Committee on Science, Space, and Technology, March 22, 1994. McNulty is Associate Director for Computer Security at the National Institute of Standards and Technology. This is a summary of NIST's concerns about Internet security and ideas for addressing them.
 
 Brandt, Daniel. "Infowar and Disinformation: From the Pentagon to the Net." _NameBase NewsLine_, no. 11 (October-December 1995). Brandt warns that the emphasis on infowar may be a fad that is being promoted in order to increase government control of information flow on the Internet.
 
@@ -207,4 +207,4 @@ For extensive material on information warfare, check out Winn Schwartau's [infow
 
 ### {{< anchor "misc" >}}{{< /anchor >}}Miscellaneous Items
 
-[Miscellaneous items]({{< baseurl >}}/pages/readings/crime_1) collected from the Net over the last few years. May contain useful ideas for paper topics.
+{{< resource_link 7845a8dd-42d0-3d39-dd4a-891fc18635d3 "Miscellaneous items" >}} collected from the Net over the last few years. May contain useful ideas for paper topics.

@@ -62,12 +62,12 @@ Mr. President, Georgetown University Law School has released a remarkable study 
 
 In addition to igniting passions on the Internet, the cyberporn scare sparked the wrath of Congress, where senators, primed with copies of the study and samples of indecent GIFs, stepped in to protect the country from a tide of Internet-ready smut.
 
-*   Excerpt from the Congressional Record of June 26, 1995. ([PDF]({{< baseurl >}}/resources/grassleycong_rec))
+*   Excerpt from the Congressional Record of June 26, 1995. ({{< resource_link 391a1205-05cc-5d20-6b4c-d284822ecf7a "PDF" >}})
 *   The Communications Decency Act had been reintroduced by Senator James Exon (Dem. Nebraska) on January 30, 1995, and reported out by the Commerce Committee in March. The Time article and associated events greatly heightened interest in the bill.
 
 Over the summer and fall, Exon's bill was amended and reconciled with similar provisions in a telecommunications bill passed by the House.
 
-Here is the final version of the CDA ([PDF]({{< baseurl >}}/resources/cdafinal)) as enacted by Congress on February 1, 1996 and signed into law as the Communications Decency Act of 1996. One key provision is Whoever... (1) in interstate or foreign communications knowingly... uses any interactive computer service to display in a manner available to a person under 18 years of age, any comment, request, suggestion, proposal, image, or other communication that, in context, depicts or describes, in terms patently offensive as measured by contemporary community standards... or (2) knowingly permits any telecommunications facility under such person's control to be used for an activity prohibited by paragraph (1)... shall be fined under title 18, United States Code, or imprisoned not more than two years, or both.
+Here is the final version of the CDA ({{< resource_link ddff6196-875b-7752-6f70-ae2ae1f54b71 "PDF" >}}) as enacted by Congress on February 1, 1996 and signed into law as the Communications Decency Act of 1996. One key provision is Whoever... (1) in interstate or foreign communications knowingly... uses any interactive computer service to display in a manner available to a person under 18 years of age, any comment, request, suggestion, proposal, image, or other communication that, in context, depicts or describes, in terms patently offensive as measured by contemporary community standards... or (2) knowingly permits any telecommunications facility under such person's control to be used for an activity prohibited by paragraph (1)... shall be fined under title 18, United States Code, or imprisoned not more than two years, or both.
 
 John Perry Barlow, in disgust, posted a Cyberspace Independence Declaration on February 8.
 
@@ -78,7 +78,7 @@ As soon as the CDA was enacted, its constitutionality was challenged in a suit f
 
 The plaintiffs, providers of and users of computer communication systems, assert that the Act is unconstitutional on its face and as applied because it criminalizes expression that is protected by the First Amendment; it is also impermissibly overbroad and vague; and it is not the least restrictive means of accomplishing any compelling governmental purpose.
 
-Full text ([PDF]({{< baseurl >}}/resources/aclucomplaint)) of the complaint.  
+Full text ({{< resource_link 5f6a73b3-7de1-49dc-0574-a7eaaf872ba2 "PDF" >}}) of the complaint.  
 The suit was joined with a similar one filed by a group headed by the American Library Association, and the case was heard by a panel consisting of Chief Judge Dolores K. Sloviter, Judge Stewart Dalzell, and Judge Ronald L. Buckwalter in Philadelphia during March. On June 12, 1996, the panel ruled unanimously that the CDA is an unconstitutional violation of the First and Fifth Amendments. As Judge Dalzell wrote:
 
 My examination of the special characteristics of Internet communication, and review of the Supreme Court's mediumspecific First Amendment jurisprudence, lead me to conclude that the Internet deserves the broadest possible protection from government-imposed, content-based regulation....  
@@ -100,12 +100,12 @@ Reno v. ACLU, 1997
 On September 29th, the Justice Department appealed the Philadelphia decision to the Supreme Court, and the case now became _Reno v. ACLU_.
 
 *   Cleaver, Cathleen.(Family Research Council). "Cyberchaos: Not First Amendment's Promise." September 9, 1996. In this piece, Cleaver criticizes the Philadelphia decision and calls for the Supreme Court to overturn it.
-*   Government's appeal ([PDF]({{< baseurl >}}/resources/renovacluappeal)), filed with the Supreme Court on January 21, 1997.
+*   Government's appeal ({{< resource_link 68814067-51be-79b1-b648-0164cd3316e4 "PDF" >}}), filed with the Supreme Court on January 21, 1997.
 *   Appellee's brief, filed with the Supreme Court on February 20, 1997.
 
 The Court heard the oral arguments on March 19th. The case was argued by Deputy Solicitor General Seth Waxman for the Government and Bruce Ennis for the ACLU and other Appellees.
 
-*   Complete transcript ([PDF]({{< baseurl >}}/resources/sctran)) of the oral arguments. Here is an excerpt:
+*   Complete transcript ({{< resource_link e25b77ce-a6a9-46c4-4458-849d68e29823 "PDF" >}}) of the oral arguments. Here is an excerpt:
 
 MR. WAXMAN: ... there is a deadly serious point here, and that is that when the alternative is that every child in this country who has access to a computer and can click a mouse has access in his or her own bedroom or home or library to Hustler Magazine and Penthouse Magazine, and the kind of indecent speech that people sitting in the anonymity of their own bedrooms anywhere in the world or anywhere in the country wants to make available to them, we think that this is a small price to pay, and Congress could legitimately say that this is a narrowly tailored alternative.  
 QUESTION: I take it then that you would also defend the constitutionality of a statute which, tracking the words we have here, prohibited indecent conversations on a public street with minors present ... or between minors.  
@@ -152,8 +152,8 @@ On December 1, 1997, the ACLU, Electronic Frontier Foundation, Computer Professi
 
 While the civil liberties groups were arguing over PICS as automated censorship, the original CDA proponents -- regrouping in the wake of _Reno v. ACLU_ -- were claiming that the whole filtering idea was failing, since there was no legal compulsion to use it. To that end, Senator Coasts, one of the original sponsors of the CDA, introduced new legislation at end of the 1997 Congressional session.
 
-November 8, 1997, Remarks of Sen. Coats ([PDF]({{< baseurl >}}/resources/coatsnov97)) in introducing his new legislation.
+November 8, 1997, Remarks of Sen. Coats ({{< resource_link 94e918e0-30ab-f4e6-7d62-0251a5ec0714 "PDF" >}}) in introducing his new legislation.
 
-Text of the bill as introduced ([PDF]({{< baseurl >}}/resources/coatsbill)).
+Text of the bill as introduced ({{< resource_link e44dad60-6dae-f11f-e60c-29d4d4f75849 "PDF" >}}).
 
 Stay tuned for 1998!

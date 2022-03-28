@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: chp_copyright_1.jpg
 uid: 479b28a9-0eb6-e5b0-dccb-1c0f0241e163

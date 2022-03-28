@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Study Materials
 uid: 220377d1-68a9-6cd5-f3f2-c9a9adec6645
 ---

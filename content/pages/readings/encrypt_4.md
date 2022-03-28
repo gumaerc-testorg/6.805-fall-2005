@@ -10,8 +10,8 @@ title: '1995-97: From Clipper to Key Recovery'
 uid: 1200bae3-6dfa-b89e-79da-307caa7932b4
 ---
 
-*   [Back to the Encryption Controversy: 1994-1997]({{< baseurl >}}/pages/readings/encrypt_1)
-*   [Back to readings on Encryption and National Security]({{< baseurl >}}/pages/readings/read_tlp4)
+*   {{< resource_link 296da733-fbe4-0232-14bf-e7c4a490acc1 "Back to the Encryption Controversy: 1994-1997" >}}
+*   {{< resource_link 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86 "Back to readings on Encryption and National Security" >}}
 
 By mid-1994, Clipper was dead as a serious proposal, although the debate continued to seethe -- and the pressure from industry to address the awkward export regulations mounted. The need to do something was brought home in August 1995 when David Byers in Sweden and Eric Young in the UK, and (independently) Damien Doligez in France demonstrated that they could break the 40-bit RC4 encryption algorithm used in Netscape's SSL (the only encryption algorithm generally approved for export from the U.S., and claimed by the Administration to be adequate for commercial applications) using clusters of workstations running for 8 days. (This feat was duplicated in January 1996 at MIT by Andrew Twyman, using a single graphics workstation.)
 
@@ -77,7 +77,7 @@ In October, eleven companies -- Apple, Atalla, Digital, Groupe Bull, Hewlett-Pac
 
 At the very end of December 1996 the Administration, as promised, published new regulations transferring export control of cryptography from the State Department to the Commerce Department's Bureau of Export Administration.
 
-Here are the regulations ([PDF]({{< baseurl >}}/resources/bxaregs1296)), as published on December 30, 1996.
+Here are the regulations ({{< resource_link 904fa657-cb85-6702-4bdd-aadb23310b8c "PDF" >}}), as published on December 30, 1996.
 
 Technically, these regulations are an "interim rule", but as of this date (September, 1998), they are still in effect, while the Administration revises them in response to comments. Reception from industry remains grudging: Overall, companies are filing plans to gain export approval for 56-bit DES, while continuing to oppose any export restrictions. Their mantra here is "We oppose government regulation of encryption, but we will provide key-recovery products in response to customer demand".
 
@@ -87,7 +87,7 @@ Technically, these regulations are an "interim rule", but as of this date (Septe
 
 Congressional legislation in 1997 was all over the map, with bills introduced ranging the elimination of export controls outright, to bills outlawing the sale of non-escrowed encryption products, even domestically. By the end of the legislative session, the encryption debate has become too chaotic to result in any legislation.
 
-*   [Selected articles on the Crypto Debate circa 1997]({{< baseurl >}}/pages/readings/encrypt_5). Note the flare-up after September 3, when FBI Director Louis Freeh proposed regulation of domestic encryption, just as he had announced as his intent ever since the debate over Digital Telephony.
+*   {{< resource_link c7febcf1-84c0-a209-b4c3-d44c8619abd0 "Selected articles on the Crypto Debate circa 1997" >}}. Note the flare-up after September 3, when FBI Director Louis Freeh proposed regulation of domestic encryption, just as he had announced as his intent ever since the debate over Digital Telephony.
 *   "Encryption Bills Considered By Congress in 1997." Summary (with comments) provided by the Electronic Frontier Foundation on 10 October 1997. This is far from an unbiased report, since the EFF is adamantly opposed to any regulations on encryption, but is nevertheless helpful to see all the bills discussed in one place.
 
 Another element of the crypto debate that became critical in 1997 was the reaction of other governments. The Administration's vision of a Key Management Infrastructure requires significant international cooperation on to develop a framework for inter-government access to keys and encrypted information, and the U.S. has been lobbying strongly for other governments to adopt the key recovery approach. The following report which was issued by European Commission appears to throw cold water on the U.S. efforts.  
