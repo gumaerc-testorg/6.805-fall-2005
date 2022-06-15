@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: Readings section contains the case details and readings required for
+  thr course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: c807d991-0c36-a7b6-1022-b5e758877384
 ---
@@ -24,10 +25,10 @@ Readings for Individual Topics
 
 Here is background for some of the individual course topics. Specific items will be indicated in the weekly assignments.
 
-*   {{< resource_link 0738894d-b101-33b1-08e4-530fc024c125 "Computer Crime" >}}
-*   {{< resource_link cb1d83bd-b95a-e98d-a73f-cfdda4f3319f "Computer Communications and Freedom of Expression" >}}
-*   {{< resource_link 6cc29e9b-b358-33cf-1d3c-42b5cd66ceed "Information and Intellectual Property" >}}
-*   {{< resource_link 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86 "Encryption and National Security" >}}
+*   {{% resource_link 0738894d-b101-33b1-08e4-530fc024c125 "Computer Crime" %}}
+*   {{% resource_link cb1d83bd-b95a-e98d-a73f-cfdda4f3319f "Computer Communications and Freedom of Expression" %}}
+*   {{% resource_link 6cc29e9b-b358-33cf-1d3c-42b5cd66ceed "Information and Intellectual Property" %}}
+*   {{% resource_link 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86 "Encryption and National Security" %}}
 
 Other Sources of General Course Material
 ----------------------------------------
@@ -42,4 +43,4 @@ Other Sources of General Course Material
     *   Gibson, William. _Neuromancer_. From the man who invented the word "cyberspace." If you've read the book and liked it, you may want to look at the sequels, _Count Zero_ and _Mona Lisa Overdrive_.
     *   Vinge, Vernor. "True Names." in the collection _True Names and other Dangers_. Written in the early 80s, this short story is frighteningly prophetic of current issues having to do with anonymity, privacy, and security on the network.
 
-{{< resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "Info 1 TLP" >}} {{< resource_link 1da51e2e-d0af-4ab9-7e27-d5ae3da3fe43 "Info 2 TLP" >}} {{< resource_link cdf01677-125b-e282-52d6-3489e47faa8f "Comm 1 TLP" >}} {{< resource_link 7845a8dd-42d0-3d39-dd4a-891fc18635d3 "Crime 1 TLP" >}} {{< resource_link 296da733-fbe4-0232-14bf-e7c4a490acc1 "Encrypt 1 TLP" >}} {{< resource_link 2eb119a8-6ab9-4df2-aa3e-11ab30e1ad94 "Encrypt 2 TLP" >}} {{< resource_link 1969ffb5-c1cf-c678-21f5-e510e32c3852 "Encrypt 3 TLP" >}} {{< resource_link 1200bae3-6dfa-b89e-79da-307caa7932b4 "Encrypt 4 TLP" >}} {{< resource_link c7febcf1-84c0-a209-b4c3-d44c8619abd0 "Encrypt 5 TLP" >}} {{< resource_link 6f1d86e9-624c-4a4f-b82b-1de665b76a0f "Encrypt 6 TLP" >}} {{< resource_link 51899475-f3cb-ae13-c09c-14374a7e426a "Encrypt 7 TLP" >}} {{< resource_link 77b21e64-747a-8e83-1656-e537644f3ba8 "Encrypt 8 TLP" >}}
+{{% resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "Info 1 TLP" %}} {{% resource_link 1da51e2e-d0af-4ab9-7e27-d5ae3da3fe43 "Info 2 TLP" %}} {{% resource_link cdf01677-125b-e282-52d6-3489e47faa8f "Comm 1 TLP" %}} {{% resource_link 7845a8dd-42d0-3d39-dd4a-891fc18635d3 "Crime 1 TLP" %}} {{% resource_link 296da733-fbe4-0232-14bf-e7c4a490acc1 "Encrypt 1 TLP" %}} {{% resource_link 2eb119a8-6ab9-4df2-aa3e-11ab30e1ad94 "Encrypt 2 TLP" %}} {{% resource_link 1969ffb5-c1cf-c678-21f5-e510e32c3852 "Encrypt 3 TLP" %}} {{% resource_link 1200bae3-6dfa-b89e-79da-307caa7932b4 "Encrypt 4 TLP" %}} {{% resource_link c7febcf1-84c0-a209-b4c3-d44c8619abd0 "Encrypt 5 TLP" %}} {{% resource_link 6f1d86e9-624c-4a4f-b82b-1de665b76a0f "Encrypt 6 TLP" %}} {{% resource_link 51899475-f3cb-ae13-c09c-14374a7e426a "Encrypt 7 TLP" %}} {{% resource_link 77b21e64-747a-8e83-1656-e537644f3ba8 "Encrypt 8 TLP" %}}

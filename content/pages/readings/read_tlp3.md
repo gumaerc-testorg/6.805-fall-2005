@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -17,8 +18,8 @@ uid: 6cc29e9b-b358-33cf-1d3c-42b5cd66ceed
 *   [Software and Patent Law](#patent)
     *   [Supreme Court Rulings](#supreme)
     *   [Appeals Court Rulings](#appeals)
-*   {{< resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "Software and Copyright Law" >}}
-    *   [Whelan v. Jaslow]({{< baseurl >}}/pages/readings/info_1#whelan), [Computer Associates v. Altai]({{< baseurl >}}/pages/readings/info_1#altai), [Apple v. Microsoft]({{< baseurl >}}/pages/readings/info_1#apple), [The Lotus Look and Feel Suits]({{< baseurl >}}/pages/readings/info_1#lotus)
+*   {{% resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "Software and Copyright Law" %}}
+    *   {{% resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "Whelan v. Jaslow" "#whelan" %}}, {{% resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "Computer Associates v. Altai" "#altai" %}}, {{% resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "Apple v. Microsoft" "#apple" %}}, {{% resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "The Lotus Look and Feel Suits" "#lotus" %}}
 *   [Copyright and the Global Information Infrastructure](#copyright)
     *   [The NII White Paper](#NII)
     *   [The WIPO Treaties and Enabling Legislation](#WIPO)
@@ -104,16 +105,16 @@ The result of this hair-splitting is highly confusing. It rests on complex and -
 
 ### Appeals Court Rulings
 
-*   Arrythmia v. Corazonix ({{< resource_link 89ad8a73-e09a-a12c-e614-689465029140 "PDF" >}}) (1992), decision by the U.S. Court of Appeals, Federal Circuit. This major decision also includes a review of the Benson and Diehr decisions, and establishes that mathematical algorithms may be patentable if they are used in relation to a tangible physical physical process.
-*   {{< anchor "alappat" >}}{{< /anchor >}}In re Alappat ({{< resource_link fabe0363-c6ea-cd8c-2740-2fa967047660 "PDF" >}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This decision extended the basis for algorithm patentability established in Arrythmia. The Court declared that a method for smoothing waveforms in a digital oscilloscope is patentable, even though the patent claim was written so broadly as to cover any general-purpose computer performing the same method. The Court held that "a general purpose computer in effect becomes a special purpose computer once it is programmed to perform particular functions pursuant to instructions from program software."
+*   Arrythmia v. Corazonix ({{% resource_link 89ad8a73-e09a-a12c-e614-689465029140 "PDF" %}}) (1992), decision by the U.S. Court of Appeals, Federal Circuit. This major decision also includes a review of the Benson and Diehr decisions, and establishes that mathematical algorithms may be patentable if they are used in relation to a tangible physical physical process.
+*   {{< anchor "alappat" >}}{{< /anchor >}}In re Alappat ({{% resource_link fabe0363-c6ea-cd8c-2740-2fa967047660 "PDF" %}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This decision extended the basis for algorithm patentability established in Arrythmia. The Court declared that a method for smoothing waveforms in a digital oscilloscope is patentable, even though the patent claim was written so broadly as to cover any general-purpose computer performing the same method. The Court held that "a general purpose computer in effect becomes a special purpose computer once it is programmed to perform particular functions pursuant to instructions from program software."
     *   {{< anchor "sw_patent" >}}{{< /anchor >}}[Software Patents](http://en.wikipedia.org/wiki/Software_patent), by Jonathan Rosenoer, reports on and criticizes the Alappat decision.
-*   In re Lowry ({{< resource_link 97720d58-fa81-e341-d2bc-4f6e73c92327 "PDF" >}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This holds that a computer memory with data structures stored in it is patentable subject matter, i.e., that the organization of information in memory can be patentable invention.
-*   In re Trovato ({{< resource_link 01091ca4-d6c4-7ccc-714d-2198059ee563 "PDF" >}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This decision restricted the basis for algorithm patentability, saying that algorithms (even when they are realized as computer programs) may not be patentable if the domain of application of the algorithm is too "abstract".
+*   In re Lowry ({{% resource_link 97720d58-fa81-e341-d2bc-4f6e73c92327 "PDF" %}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This holds that a computer memory with data structures stored in it is patentable subject matter, i.e., that the organization of information in memory can be patentable invention.
+*   In re Trovato ({{% resource_link 01091ca4-d6c4-7ccc-714d-2198059ee563 "PDF" %}}) (1994), decision by the U.S. Court of Appeals, Federal Circuit. This decision restricted the basis for algorithm patentability, saying that algorithms (even when they are realized as computer programs) may not be patentable if the domain of application of the algorithm is too "abstract".
 
 {{< anchor "copyright" >}}{{< /anchor >}}{{< anchor "global" >}}{{< /anchor >}}Software and Copyright Law
 ---------------------------------------------------------------------------------------------------------
 
-The material on this is extensive, and appears on a {{< resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "page of its own" >}}.
+The material on this is extensive, and appears on a {{% resource_link 963f6cb7-12ed-d701-648b-00b2adeb8762 "page of its own" %}}.
 
 Copyright and the Global Information Infrastructure
 ---------------------------------------------------
@@ -169,6 +170,6 @@ As you might expect, there are both utopian and dystopian predictions about this
 {{< anchor "other_material" >}}{{< /anchor >}}Other Material
 ------------------------------------------------------------
 
-1994-forever?: The Church of Scientology vs. The Net. This interminable series of copyright lawsuits and other antics is notable in demonstrating the lengths to which people can go if they are determined to push intellectual property law to its fullest extent in order to restrict the distribution of information on the Net. I stopped following this case in 1995, but even a short summary of the events up to that point deserved a {{< resource_link 1da51e2e-d0af-4ab9-7e27-d5ae3da3fe43 "page of its own" >}}.
+1994-forever?: The Church of Scientology vs. The Net. This interminable series of copyright lawsuits and other antics is notable in demonstrating the lengths to which people can go if they are determined to push intellectual property law to its fullest extent in order to restrict the distribution of information on the Net. I stopped following this case in 1995, but even a short summary of the events up to that point deserved a {{% resource_link 1da51e2e-d0af-4ab9-7e27-d5ae3da3fe43 "page of its own" %}}.
 
 The Electronic Frontier Foundation archives has a section on [intellectual property](https://www.eff.org/issues/intellectual-property/the-term) which is worth browsing for articles and source material.

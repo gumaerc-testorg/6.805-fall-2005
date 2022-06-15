@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/20e35c14928ee1195160f2916ed73b27_appealdecision.pdf
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/20e35c14928ee1195160f2916ed73b27_appealdecision.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

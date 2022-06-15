@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/4796b1006505fb2732ebf52739e5e69b_sessions_2_19_93.gif
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/4796b1006505fb2732ebf52739e5e69b_sessions_2_19_93.gif
 file_type: image/gif
 image_metadata:
   caption: ''
