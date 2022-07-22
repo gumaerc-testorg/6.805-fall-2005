@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/bec
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lotsbrldappmar95.pdf
 uid: bec25eb3-7d34-2f16-0850-05289525844d
 ---
 This file contains the court details for Lotus Development Corporation, Petitioner, v. Borland International, Inc.
-

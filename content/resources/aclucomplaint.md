@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/5f6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: aclucomplaint.pdf
 uid: 5f6a73b3-7de1-49dc-0574-a7eaaf872ba2
 ---
 This file contains complete description of the complaint in United States District Court.
-

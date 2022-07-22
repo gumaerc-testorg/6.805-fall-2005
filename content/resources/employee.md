@@ -7,6 +7,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/d8b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: employee.pdf
 uid: d8b0dfb1-ae86-257f-7212-ad4ce2799ad4
 ---
 This resource includes information on electronic information inside the house, webhire, pervasive privacy concerns, and MIT policies on information and protection of privacy.
-

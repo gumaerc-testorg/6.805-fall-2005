@@ -5,6 +5,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/9c7
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sample_midterm.pdf
 uid: 9c7f51e1-1e01-52e8-4a8a-aa8eec2bf773
 ---
 This file contains questions for sample midterm exam.
-

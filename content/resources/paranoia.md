@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/dde
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paranoia.pdf
 uid: dde74741-dbef-cb03-a8a3-c70cbe89b980
 ---
 This resource includes information on background on IEEE 802.11, structure and flaws, known attacks on wireless networks and PARANOIA.
-

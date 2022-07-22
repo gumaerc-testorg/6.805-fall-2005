@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/16f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mitid_crd_sys.pdf
 uid: 16f0d48d-ab62-be89-c693-5f43f4af0680
 ---
 This resource includes information on history, current policy practice & our policy recommendations, and existing access technologies.
-

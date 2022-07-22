@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/c47
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: bflag.pdf
 uid: c47ca791-9c59-1ec8-490f-c3df5a97682a
 ---
 This resource includes information on history of digital television (DTV) and the broadcast flag, threat analysis, and cost-benefit analysis.
-

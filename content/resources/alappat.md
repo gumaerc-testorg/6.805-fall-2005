@@ -5,6 +5,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/fab
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/3fe
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lotuscertreply.pdf
 uid: 3feefa73-5cd9-b205-98f6-af0099c5eb2e
 ---
 This file contains details about Lotus Reply in Support of Petition for Writ of Certiorari.
-

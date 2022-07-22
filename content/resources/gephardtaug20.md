@@ -5,6 +5,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/b17
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gephardtaug20.pdf
 uid: b1701005-bdbf-fe0e-aba7-755bcd9880f9
 ---
 This file contains notes on Encryption is Vital to the Net.
-

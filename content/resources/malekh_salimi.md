@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/a9f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: malekh_salimi.pdf
 uid: a9fa69d6-1f69-9b9e-661c-3cce6740704a
 ---
 This file contains notes Social Ethics in the Electronic Community by Malekh Salimi.
-

@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/7e0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: acluamicusbrief.pdf
 uid: 7e0820af-3c6f-a557-e1aa-fc520bfab2ce
 ---
 This file contains the case details for Robert Alan Thomas and Carleen Thomas v. United States of America.
-

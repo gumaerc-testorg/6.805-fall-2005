@@ -5,6 +5,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/70d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sample_brief.pdf
 uid: 70d03860-0894-5ac1-6d5a-2790ce8fe411
 ---
 Sample assignment.
-

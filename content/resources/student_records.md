@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/5b7
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: student_records.pdf
 uid: 5b76083a-9fde-8a65-02ab-56d19bc21ec6
 ---
 This resource includes information on background?on?FERPA, FERPA?implementation, and MIT's records.
-

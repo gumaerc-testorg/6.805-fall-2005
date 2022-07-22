@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/7b6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sjgappeal.pdf
 uid: 7b6eba48-36e1-a21f-27cb-ec474f88bd7a
 ---
 This file contains the case details for Steve Jackson Games v. United States Secret Service.
-

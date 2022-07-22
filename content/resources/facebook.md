@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/140
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: facebook.pdf
 uid: 14013ffd-f1a7-a3f8-9282-1a918fada9a0
 ---
 This resource includes information on principles and methods of research, end-users? interaction with facebook, facebook and "fair information practices".
-

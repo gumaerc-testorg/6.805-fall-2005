@@ -5,6 +5,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/4b2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jane_thatcher.pdf
 uid: 4b2cf17c-8a3c-283a-5ccf-63d73fdc5572
 ---
 This file contains notes for Social Ethics in the Electronic Community.
-

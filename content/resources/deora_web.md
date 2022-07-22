@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/d0f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: deora_web.pdf
 uid: d0f8c715-16f3-35f8-f588-528ba4a6eb02
 ---
 This resource includes information on current copyright laws, google, and comparable issues.
-

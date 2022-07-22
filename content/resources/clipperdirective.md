@@ -6,6 +6,7 @@ file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/f8b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: clipperdirective.pdf
 uid: f8bf4382-b9e4-9858-23c7-cb3cb168c0e7
 ---
 This file contains information on Presidential Directive Authorizing the Clipper Initiative.
-
