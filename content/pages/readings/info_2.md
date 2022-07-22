@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: 'Road Map to: The Church of Scientology vs. the Net'
 uid: 1da51e2e-d0af-4ab9-7e27-d5ae3da3fe43

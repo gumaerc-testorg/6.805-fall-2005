@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: Software and Copyright Law
 uid: 963f6cb7-12ed-d701-648b-00b2adeb8762
@@ -10,7 +15,7 @@ uid: 963f6cb7-12ed-d701-648b-00b2adeb8762
 *   [Computer Associates v. Altai](#altai)
 *   [Apple v. Microsoft](#apple)
 *   [The Lotus Look and Feel Suits](#lotus)
-*   [Back to readings on information and intellectual property]({{< baseurl >}}/pages/readings/read_tlp3)
+*   {{% resource_link 6cc29e9b-b358-33cf-1d3c-42b5cd66ceed "Back to readings on information and intellectual property" %}}
 
 The situation with software copyright is no less confusing than with software patents. If programs are "abstract machines" or "methods of operation", are they copyrightable at all? The Supreme Court gives little guidance here. One possible precedent is {{< anchor "baker" >}}{{< /anchor >}}[Baker v. Selden, 101 U.S. 99 (1879)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=case&court=US&vol=101&page=99) in which the Court ruled that describing a system of accounting in a textbook did not confer copyright protection on the system itself:  
 The description of the art in a book, though entitled to the benefit of copyright, lays no foundation for an exclusive claim to the art itself. The object of the one is explanation; the object of the other is use. The former may be secured by copyright. The latter can only be secured, if it can be secured at all, by letters-patent.  
@@ -83,20 +88,20 @@ Lotus then sued Borland over Quattro. Even though Quattro's user interface was d
 The U.S. First Circuit held for Borland, reversing the District Court's decision on unexpected grounds. Borland's appeal, and the amicus briefs, had argued, using the guidelines set forth in _Altai_ ([see above](#1992)) that the two programs were not sufficiently similar. But according to the appeals court, the issue was not "substantial similarity" at all. Rather, they held that the menu structure of Lotus 1-2-3 was a "means of operation" and reasoned based on _Baker v. Selden_ ([see above](#baker)) that the menu structure was not copyrightable in the first place:  
 Concluding, as we do, that users operate Lotus 1-2-3 by using the Lotus menu command hierarchy, and that the entire Lotus menu command hierarchy is essential to operating Lotus 1-2-3, we do not inquire further whether that method of operation could have been designed differently. The "expressive" choices of what to name the command terms and how to arrange them do not magically change the uncopyrightable menu command hierarchy into copyrightable subject matter.
 
-*   Appeals court decision ([PDF]({{< baseurl >}}/resources/lotsbrldappmar95)) of March 9, 1995, reversing the District Court's 1992 ruling.
+*   Appeals court decision ({{% resource_link bec25eb3-7d34-2f16-0850-05289525844d "PDF" %}}) of March 9, 1995, reversing the District Court's 1992 ruling.
 
 Lotus appealed the decision to the Supreme Court:
 
-*   Lotus's petition to the Supreme Court for a writ of certiorari ([PDF]({{< baseurl >}}/resources/lotuscertpet)), June 7, 1995.
-*   Borland's brief in opposition ([PDF]({{< baseurl >}}/resources/borlandcertoppo)) to petition for certiorari, July, 1995.
-*   Lotus's reply ([PDF]({{< baseurl >}}/resources/lotuscertreply)) in support of the petition.
+*   Lotus's petition to the Supreme Court for a writ of certiorari ({{% resource_link 57eeb3c9-8bd3-947a-72f7-01fa15fead0f "PDF" %}}), June 7, 1995.
+*   Borland's brief in opposition ({{% resource_link 25af7f00-6680-8a96-0aea-450ee5215e28 "PDF" %}}) to petition for certiorari, July, 1995.
+*   Lotus's reply ({{% resource_link 3feefa73-5cd9-b205-98f6-af0099c5eb2e "PDF" %}}) in support of the petition.
 
 On September 27, 1995, the Supreme Court granted Lotus's petition. The finding that user interfaces might consist of inherently uncopyrightable "means of operation" had pulled the rug out from under the proponents of strong user-interface copyright. The case generated major interest, and several amicus curiae briefs were filed:
 
 *   [Amicus brief](http://www.panix.com/~jesse/amicus/cover.html) filed in the Supreme Court in support of Lotus's position by DEC, Gates Rubber Company, Intel, and Xerox.
-*   Amicus brief ([PDF]({{< baseurl >}}/resources/lpfamicus)) filed in the Supreme Court against the Lotus position, on behalf of a group of computer science professors.
-*   Amicus brief ([PDF]({{< baseurl >}}/resources/lpfamicus2)) filed in the Supreme Court against the Lotus position, on behalf of the League for Programming Freedom.
-*   Amicus brief ([PDF]({{< baseurl >}}/resources/lawprofamicus)) filed in the Supreme Court against the Lotus position, on behalf of a group of copyright law professors.
+*   Amicus brief ({{% resource_link f156e94c-1f8f-6cf1-6706-66668b57ce9d "PDF" %}}) filed in the Supreme Court against the Lotus position, on behalf of a group of computer science professors.
+*   Amicus brief ({{% resource_link b1db764b-412c-a7f6-d585-ab656ab715b7 "PDF" %}}) filed in the Supreme Court against the Lotus position, on behalf of the League for Programming Freedom.
+*   Amicus brief ({{% resource_link 73c0b4b4-6d16-c2f8-081f-87edc2a8c3fa "PDF" %}}) filed in the Supreme Court against the Lotus position, on behalf of a group of copyright law professors.
 
 Oral arguments were held on January 8, 1996. People expected that the Supreme Court would use this as an occasion to issue a major ruling on intellectual property issues for software, and perhaps to clarify the relative roles of patents and copyrights for software. But a week after the oral arguments, the Court announced that it would issue no decision at all. The Justices had split 4-to-4 (Justice Stevens having recused himself):
 

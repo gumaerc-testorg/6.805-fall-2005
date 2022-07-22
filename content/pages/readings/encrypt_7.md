@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: Selected Items on Clipper -- 1994
 uid: 51899475-f3cb-ae13-c09c-14374a7e426a
@@ -32,7 +37,7 @@ There was a tremendous amount published during 1994 on the Escrowed Encryption S
 *   "A Closer Look On Wiretapping." _New York Times_, Editorial, June 12, 1994.
 *   June 15, 1994. CNN Report - Larry King: Clipper Chip.
 *   July 14, 1994. New Clipper Legislative Proposal from House Science Committee.
-*   July 20, 1994, Letter from Al Gore to Maria Cantwell ([PDF]({{< baseurl >}}/resources/gorejuly20)).
+*   July 20, 1994, Letter from Al Gore to Maria Cantwell ({{% resource_link 1e03a82f-d412-9f5c-6f1a-b423156acdd4 "PDF" %}}).
 *   Markoff, John. "Administration Reverses Itself On Wiretapping Technology." _New York Times_, July 20, 1994.
 *   July 21, 1994, Statement of Senator Patrick Leahy on Vice President Gore's Clipper Chip letter (PDF).
 *   July 22, 1994. EFF Analysis of Vice-President Gore's Letter on Cryptography Policy.
@@ -41,6 +46,6 @@ There was a tremendous amount published during 1994 on the Escrowed Encryption S
 *   August 8, 1994. Gore Letter and Software Key Escrow (Tim May).
 *   Corcoran, Elizabeth. "Delay urged on encryption technologies." _Washington Post_, September 23, 1994.
 *   October 6, 1994, HR 5199: A bill to provide for the establishment and management of voluntary encryption standards (PDF).
-*   October 6, 1994, Rep. Brown's comments upon introducing HR 5199 ([PDF]({{< baseurl >}}/resources/brownoct6)).
+*   October 6, 1994, Rep. Brown's comments upon introducing HR 5199 ({{% resource_link 27035487-df7b-562e-43e3-4a4507fad785 "PDF" %}}).
 *   "Business Group Gets Specific On Encryption." October 11, 1994.
 *   Meeks, Brock. "Jacking in from the 'Sooner or Later' Port." October 20, 1994.

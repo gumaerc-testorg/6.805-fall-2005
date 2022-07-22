@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Study materials section contains the information for the writing tips.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 220377d1-68a9-6cd5-f3f2-c9a9adec6645
 ---

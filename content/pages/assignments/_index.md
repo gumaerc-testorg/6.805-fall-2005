@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Assignments section contains the details of the assignments to be submitted.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0c0ceeb1-336c-6f25-06e8-0089d47cd2db
 ---
@@ -24,7 +28,7 @@ TOPICS
 Assignment 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Pre-Semester Writing Assignment]({{< baseurl >}}/pages/assignments/assn1)
+{{% resource_link 318f3bb6-0555-3dc0-d184-8137c50b9372 "Pre-Semester Writing Assignment" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ Assignment 1
 Assignment 2
 {{< tdclose >}}
 {{< tdopen >}}
-[The Internet meets the U.S. Constitution]({{< baseurl >}}/pages/assignments/assn2)
+{{% resource_link 097370ce-1ead-e489-f94e-784e27808c5c "The Internet meets the U.S. Constitution" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Assignment 2
 Assignment 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Filters]({{< baseurl >}}/pages/assignments/assn3)
+{{% resource_link 53956326-13a2-026a-169a-4ee003b08e7f "Filters" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ Assignment 3
 Assignment 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Fourth Amendment Foundations and the First Century of Electronic Surveillance]({{< baseurl >}}/pages/assignments/assn4)
+{{% resource_link b33a8194-a534-c5ab-d930-28786781bf31 "Fourth Amendment Foundations and the First Century of Electronic Surveillance" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ Assignment 4
 Assignment 5
 {{< tdclose >}}
 {{< tdopen >}}
-[International Issues]({{< baseurl >}}/pages/assignments/assn5)
+{{% resource_link d7fc5f10-7119-4a24-8bd1-5ea421698f91 "International Issues" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ Assignment 5
 Assignment 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Cryptography]({{< baseurl >}}/pages/assignments/assn6)
+{{% resource_link c3305ea5-c333-fe54-4039-6299596598dd "Cryptography" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Assignment 6
 Assignment 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Profiling and Data Mining]({{< baseurl >}}/pages/assignments/assn7)
+{{% resource_link 2da27406-8f0b-909d-a063-3826b3120d0c "Profiling and Data Mining" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +91,7 @@ Assignment 7
 Assignment 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Transparency]({{< baseurl >}}/pages/assignments/assn8)
+{{% resource_link 7281d48f-0ed5-26b1-beb3-b981c2711d80 "Transparency" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ Assignment 8
 Assignment 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Personal Information on the Web]({{< baseurl >}}/pages/assignments/assn9)
+{{% resource_link 29f65989-51e0-7014-5a54-49da79d4500c "Personal Information on the Web" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +109,7 @@ Assignment 9
 Assignment 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Transparency in Consumer Protection and Commercial Regulation]({{< baseurl >}}/pages/assignments/assn10)
+{{% resource_link 7f36d428-355e-7485-9652-87185fa064e8 "Transparency in Consumer Protection and Commercial Regulation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,11 +118,11 @@ Assignment 10
 Assignment 11
 {{< tdclose >}}
 {{< tdopen >}}
-[How Metaphor becomes Law: The Origins of Broadcast Regulation]({{< baseurl >}}/pages/assignments/assn11)
+{{% resource_link f86ceaac-c661-8faf-d54c-307b945c719d "How Metaphor becomes Law: The Origins of Broadcast Regulation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-Weekly Writing Rotisserie ([PDF]({{< baseurl >}}/resources/rotisserie))
+Weekly Writing Rotisserie ({{% resource_link 8e97e4d7-0575-4b29-d873-3fbb06da0d79 "PDF" %}})

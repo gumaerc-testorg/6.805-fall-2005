@@ -1,16 +1,21 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: Encryption and National Security
 uid: 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86
 ---
 
 *   Required Readings for this Topic:
-*   [The Encryption Controversy, 1994-1997]({{< baseurl >}}/pages/readings/encrypt_1)
-    *   [1994: The Digital Telephony Act (CALEA)]({{< baseurl >}}/pages/readings/encrypt_3)
-    *   [1994: Clipper (The Escrowed Encryption Standard)]({{< baseurl >}}/pages/readings/encrypt_2)
-    *   [1995-97: From Clipper to Key Recovery]({{< baseurl >}}/pages/readings/encrypt_4)
+*   {{% resource_link 296da733-fbe4-0232-14bf-e7c4a490acc1 "The Encryption Controversy, 1994-1997" %}}
+    *   {{% resource_link 1969ffb5-c1cf-c678-21f5-e510e32c3852 "1994: The Digital Telephony Act (CALEA)" %}}
+    *   {{% resource_link 2eb119a8-6ab9-4df2-aa3e-11ab30e1ad94 "1994: Clipper (The Escrowed Encryption Standard)" %}}
+    *   {{% resource_link 1200bae3-6dfa-b89e-79da-307caa7932b4 "1995-97: From Clipper to Key Recovery" %}}
 *   [Constitutional Issues](#const_issues)
     *   [Legal Challenges to Encryption Export Regulations](#legal)
     *   [Constitutionality of Domestic Controls on Encryption](#domestic)
@@ -18,7 +23,7 @@ uid: 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86
 *   [Technical background on Cryptography](#technical)
 *   [More Information](#more)
 
-[![Sessions memo image](/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/readings/sessions_2_19_93.gif)]({{< baseurl >}}/resources/sessions_2_19_93)
+{{< resource uuid="4796b100-6505-fb27-32eb-f52739e5e69b" href_uuid="4796b100-6505-fb27-32eb-f52739e5e69b" >}}
 
 Transmittal Letter. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 
@@ -60,7 +65,7 @@ Note: The links in the list above connect to the place on the page where each it
 {{< anchor "encryption" >}}{{< /anchor >}}{{< anchor "contro" >}}{{< /anchor >}}The Encryption Controversy, 1994-1997
 ---------------------------------------------------------------------------------------------------------------------
 
-This is an extensive topic, which is addressed on a [page of its own]({{< baseurl >}}/pages/readings/encrypt_1), with three sub-pages.
+This is an extensive topic, which is addressed on a {{% resource_link 296da733-fbe4-0232-14bf-e7c4a490acc1 "page of its own" %}}, with three sub-pages.
 
 {{< anchor "const_issues" >}}{{< /anchor >}}Constitutional Issues
 -----------------------------------------------------------------

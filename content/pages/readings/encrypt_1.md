@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 title: The Encryption Controversy 1994-1997
 uid: 296da733-fbe4-0232-14bf-e7c4a490acc1
 ---
 
-[Back to readings on Encryption and National Security]({{< baseurl >}}/pages/readings/read_tlp4)
+{{% resource_link 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86 "Back to readings on Encryption and National Security" %}}
 
 No issue has generated more controversy on the Internet than the question of government regulation of encryption. Without encryption, all network transactions are essentially public. Email has the approximate privacy of a postcard. Passwords, credit card numbers, and personal information transmitted in the clear over the network may as well be published in the newspaper. If the Internet is to be a suitable vehicle for communications and commerce, then much of the information that flows on it must be encrypted.
 
@@ -26,6 +31,6 @@ Congress, caught in the middle, has responded by introducing bills that run the 
 
 The three chapters below provide an overview of this highly controversial debate, ranging from the Digital Telephony Bill in 1994 through the latest developments this month. They also provide links to some of the key documents in the debate, which is nevertheless only a tiny fraction of the extensive material available on the Web.
 
-*   [1994: The Digital Telephony Act (CALEA)]({{< baseurl >}}/pages/readings/encrypt_2)
-*   [1994: Clipper (The Escrowed Encryption Standard)]({{< baseurl >}}/pages/readings/encrypt_3)
-*   [1995-97: From Clipper to Key Recovery]({{< baseurl >}}/pages/readings/encrypt_4)
+*   {{% resource_link 2eb119a8-6ab9-4df2-aa3e-11ab30e1ad94 "1994: The Digital Telephony Act (CALEA)" %}}
+*   {{% resource_link 1969ffb5-c1cf-c678-21f5-e510e32c3852 "1994: Clipper (The Escrowed Encryption Standard)" %}}
+*   {{% resource_link 1200bae3-6dfa-b89e-79da-307caa7932b4 "1995-97: From Clipper to Key Recovery" %}}
