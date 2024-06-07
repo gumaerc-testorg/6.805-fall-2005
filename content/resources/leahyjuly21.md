@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/4f444874db48864ebd3e1af8b2f74de1_leahyjuly21.pdf
+file_size: 40704
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on principles and methods of research,
   end-users? interaction with facebook, facebook and "fair information practices".
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/14013ffdf1a7a3f892821a918fada9a0_facebook.pdf
+file_size: 1710887
 file_type: application/pdf
 learning_resource_types:
 - Projects

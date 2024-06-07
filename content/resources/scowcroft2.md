@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/52dd19df25fb8d67301b50bf815a164a_scowcroft2.gif
+file_size: 33613
 file_type: image/gif
 image_metadata:
   caption: ''
