@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/ff32215ac6498e653a6f4f1d7ddce63c_l6_crypto.pdf
+file_size: 2161342
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

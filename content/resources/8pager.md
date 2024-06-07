@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the OTA report summary for Information Security and
   Privacy in Network Environments.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/b7b10480311ef01c58a1f29415bb8ad1_8pager.pdf
+file_size: 61704
 file_type: application/pdf
 learning_resource_types:
 - Readings

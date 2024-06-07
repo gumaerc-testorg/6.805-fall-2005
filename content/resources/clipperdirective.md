@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information on Presidential Directive Authorizing
   the Clipper Initiative.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/f8bf4382b9e4985823c7cb3cb168c0e7_clipperdirective.pdf
+file_size: 80749
 file_type: application/pdf
 learning_resource_types:
 - Readings

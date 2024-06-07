@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on the policy implications of a patient-controlled
   electronic medical record.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/8579ec3091603ac1a724e735585ac2b2_ping.pdf
+file_size: 441887
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample assignment.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/70d0386008945ac16d5a2790ce8fe411_sample_brief.pdf
+file_size: 34859
 file_type: application/pdf
 learning_resource_types:
 - Assignments

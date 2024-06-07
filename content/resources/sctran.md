@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the transcript for a case.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/e25b77cea6a946c44458849d68e29823_sctran.pdf
+file_size: 190806
 file_type: application/pdf
 learning_resource_types:
 - Readings
