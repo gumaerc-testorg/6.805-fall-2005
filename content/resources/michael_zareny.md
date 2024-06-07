@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for Social Ethics in the Electronic Community,
   Michael Zareny.
 file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/f235d7e1d13ad1ca7d342a45a398d6be_michael_zareny.pdf
+file_size: 94220
 file_type: application/pdf
 learning_resource_types:
 - Readings
