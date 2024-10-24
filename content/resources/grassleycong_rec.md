@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the statement record of a case.
-file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/391a120505cc5d206b4cd284822ecf7a_grassleycong_rec.pdf
+file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/391a120505cc5d206b4cd284822ecf7a_grassleycong_rec.pdf
 file_size: 123703
 file_type: application/pdf
 learning_resource_types:

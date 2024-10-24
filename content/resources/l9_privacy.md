@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/008e193109483f5fcfc9b2909c604b77_l9_privacy.pdf
+file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/008e193109483f5fcfc9b2909c604b77_l9_privacy.pdf
 file_size: 1391407
 file_type: application/pdf
 learning_resource_types:
