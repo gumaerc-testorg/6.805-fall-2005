@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes Social Ethics in the Electronic Community by
   Malekh Salimi.
-file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/a9fa69d61f699b9e661c3cce6740704a_malekh_salimi.pdf
+file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/a9fa69d61f699b9e661c3cce6740704a_malekh_salimi.pdf
 file_size: 55800
 file_type: application/pdf
 learning_resource_types:

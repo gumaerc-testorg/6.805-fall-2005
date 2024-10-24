@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for Lotus Development Corporation, Petitioner,
   v. Borland International, Inc.
-file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/b1db764b412ca7f6d585ab656ab715b7_lpfamicus2.pdf
+file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/b1db764b412ca7f6d585ab656ab715b7_lpfamicus2.pdf
 file_size: 107770
 file_type: application/pdf
 learning_resource_types:
