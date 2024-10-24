@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Protocol for writing assignments.
-file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/8e97e4d705754b29d8733fbb06da0d79_rotisserie.pdf
+file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/8e97e4d705754b29d8733fbb06da0d79_rotisserie.pdf
 file_size: 24830
 file_type: application/pdf
 learning_resource_types:
