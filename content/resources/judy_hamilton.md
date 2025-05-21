@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for Social Ethics in the Electronic Community
   by Judy Hamilton.
-file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/8c991545c42f7402bd7ae3e23dcc0289_judy_hamilton.pdf
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/8c991545c42f7402bd7ae3e23dcc0289_judy_hamilton.pdf
 file_size: 57818
 file_type: application/pdf
 learning_resource_types:

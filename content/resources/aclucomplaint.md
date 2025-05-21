@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains complete description of the complaint in United States
   District Court.
-file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/5f6a73b37de149dc0574a7eaaf872ba2_aclucomplaint.pdf
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/5f6a73b37de149dc0574a7eaaf872ba2_aclucomplaint.pdf
 file_size: 151434
 file_type: application/pdf
 learning_resource_types:
