@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on approach and scope of paper, schedule
   and the topics.
-file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/8c844a4f251d48a633d42d4c71ca3cce_papers.pdf
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/8c844a4f251d48a633d42d4c71ca3cce_papers.pdf
 file_size: 28035
 file_type: application/pdf
 learning_resource_types:
