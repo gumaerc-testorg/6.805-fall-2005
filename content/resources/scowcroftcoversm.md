@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/c403a97f31d72f62e84e21b0a8957958_scowcroftcoversm.gif
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/c403a97f31d72f62e84e21b0a8957958_scowcroftcoversm.gif
 file_size: 14316
 file_type: image/gif
 image_metadata:

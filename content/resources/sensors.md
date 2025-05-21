@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on the law and technology of anonymity.
-file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/9af150705fd54446d1a88d09fd461246_sensors.pdf
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/9af150705fd54446d1a88d09fd461246_sensors.pdf
 file_size: 1361184
 file_type: application/pdf
 learning_resource_types:

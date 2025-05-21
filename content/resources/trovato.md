@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the notes for the case of Karen I. Trovato and Leendert
   Dorst.
-file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/01091ca4d6c47ccc714d2198059ee563_trovato.pdf
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/01091ca4d6c47ccc714d2198059ee563_trovato.pdf
 file_size: 123522
 file_type: application/pdf
 learning_resource_types:

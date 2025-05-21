@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on background on IEEE 802.11, structure
   and flaws, known attacks on wireless networks and PARANOIA.
-file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/dde74741dbefcb03a8a3c70cbe89b980_paranoia.pdf
+file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/dde74741dbefcb03a8a3c70cbe89b980_paranoia.pdf
 file_size: 337556
 file_type: application/pdf
 learning_resource_types:
