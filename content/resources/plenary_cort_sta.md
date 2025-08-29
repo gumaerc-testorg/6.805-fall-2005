@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Plenary court findings on this question: Can the US Government Criminalize
   Unauthorized Encryption?'
-file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/9b1bfd2989baf222f1fc68d51acdf0f2_plenary_cort_sta.pdf
+file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/9b1bfd2989baf222f1fc68d51acdf0f2_plenary_cort_sta.pdf
 file_size: 16916
 file_type: application/pdf
 learning_resource_types:
