@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains details of Department of Commerce regulations on export
   of encryption products.
-file: /courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/904fa657cb8567024bddaadb23310b8c_bxaregs1296.pdf
+file: /ol-ocw-studio-app/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/904fa657cb8567024bddaadb23310b8c_bxaregs1296.pdf
 file_size: 180162
 file_type: application/pdf
 learning_resource_types:
