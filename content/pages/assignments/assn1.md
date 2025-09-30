@@ -22,7 +22,7 @@ Before 5 PM on the day before Lec #1. No one will be admitted to the class witho
 
 ### Assignment
 
-Read the opinion of the U.S. Court of Appeals in the case: [Mainstream Marketing Services vs. Federal Trade Commission (10th Cir, 2004)](http://news.findlaw.com/hdocs/docs/ftc/mmsvftc021704opn.html).
+Read the opinion of the U.S. Court of Appeals in the case: {{% resource_link "555a6aa5-0ab6-41d3-9229-ccebb7c3e5bb" "Mainstream Marketing Services vs. Federal Trade Commission (10th Cir, 2004)" %}}.
 
 Pretend you are a reporter for a major newspaper. Write a short (two- or three-paragraph) news story (not a brief) that covers the Court's ruling. Your story should be accessible to ordinary readers of the newspaper. It should explain what the issue was, how the Court ruled, and the Court's reason for ruling that way, and why the public should care.
 

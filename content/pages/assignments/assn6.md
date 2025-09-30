@@ -23,12 +23,12 @@ Before Class
 
 You should do the following reading before class, and be prepared to discuss it:
 
-*   John Perry Barlow, [Jackboots on the Infobahn](http://www.wired.com/wired/archive/2.04/privacy.barlow.html), _Wired_, 1994. This is an early article in the Clipper debate.
-*   Stewart Baker, [Don't Worry Be Happy: Why Clipper Is Good For You](https://www.wired.com/1994/06/nsa-clipper/), _Wired_, May 1994, This piece by the then chief counsel of the NSA, was an early salvo in the crypto wars. Looking back from the perspective of today, what do you think of the arguments presented by Barlow and Baker?
+*   John Perry Barlow, {{% resource_link "ede5611a-acdc-4026-8230-e91728c443c6" "Jackboots on the Infobahn" %}}, _Wired_, 1994. This is an early article in the Clipper debate.
+*   Stewart Baker, {{% resource_link "b6999780-6f93-4e6e-ad36-e436c9f9dbc7" "Don't Worry Be Happy: Why Clipper Is Good For You" %}}, _Wired_, May 1994, This piece by the then chief counsel of the NSA, was an early salvo in the crypto wars. Looking back from the perspective of today, what do you think of the arguments presented by Barlow and Baker?
 *   Whit Diffie, Washington's Computer Insecurity, New York Times op-ed, August 1995. As you read this, think about what's happened since 1995, and whether Whit's arguments ring true today.
-*   Hal Abelson, Ross Anderson, Steven Bellovin, Josh Benaloh, Matt Blaze, Whitfield Diffie, John Gilmore, Peter Neumann, Ronald Rivest, Jeffrey Schiller, and Bruce Schneier, The Risks of Key Recovery, Key Escrow, and Trusted Third-Party Encryption ([PDF](https://www.schneier.com/academic/archives/1997/04/the_risks_of_key_rec.html)), May 1997. Read carefully at least through the preface, executive summary, and group charter, and skim the rest.
-*   [Senator Backs Off Backdoors](http://archive.wired.com/politics/law/news/2001/10/47635), _Wired News_, October 17, 2001.
-*   [FCC requires some broadband and VoIP Providers to accommodate wiretaps](http://blog.tmcnet.com/blog/tom-keating/voip/fcc-requires-some-broadband-and-voip-providers-to-accommodate-wiretaps.asp), _VOIP Blog_, September 26, 2005.
+*   Hal Abelson, Ross Anderson, Steven Bellovin, Josh Benaloh, Matt Blaze, Whitfield Diffie, John Gilmore, Peter Neumann, Ronald Rivest, Jeffrey Schiller, and Bruce Schneier, The Risks of Key Recovery, Key Escrow, and Trusted Third-Party Encryption ({{% resource_link "922bd108-dae5-43fa-b1ae-9390c709af8b" "PDF" %}}), May 1997. Read carefully at least through the preface, executive summary, and group charter, and skim the rest.
+*   {{% resource_link "768e9542-e9a8-4675-a289-afd66c176550" "Senator Backs Off Backdoors" %}}, _Wired News_, October 17, 2001.
+*   {{% resource_link "725c76e4-db9f-4e06-93b9-8e0ed0e1aec9" "FCC requires some broadband and VoIP Providers to accommodate wiretaps" %}}, _VOIP Blog_, September 26, 2005.
 
 ### Extra (Optional)
 
