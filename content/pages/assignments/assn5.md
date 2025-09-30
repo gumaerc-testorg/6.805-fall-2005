@@ -24,7 +24,7 @@ Read these papers:
 - Orkideh Behrouzan, Persian Blogs against "The Dual Language"
 - Alireza Doostdar, The Vulgar Spirit of Blogging
 - Hossein Derakhshan, Censor This: Iran's Web of Lies
-- Steven Cherry, China: [The Net Effect](https://spectrum.ieee.org/computing/networks/the-net-effect)
+- Steven Cherry, China: {{% resource_link "33e4c7e9-3132-46e0-ad46-ddb472bb81e2" "The Net Effect" %}}
 - Rosemary J. Coombe and Andrew Herman, Rhetorical Virtues: Property, Speech, and the Commons on the World-Wide Web
 - "Moral rights" (Caslon Analytics: Intellectual Property Guide)
 - Anita Chan, Coding Free Software, Coding Free States
@@ -32,5 +32,5 @@ Read these papers:
 Also skim these papers:
 
 - Chris Kelty, Culture's Open Sources: Punt to Culture
-- Internet Filtering in Iran 2004-2005 ([PDF ‑ 1.0 MB](http://opennet.net/sites/opennet.net/files/ONI_Country_Study_Iran.pdf))
+- Internet Filtering in Iran 2004-2005 ({{% resource_link "0c00302c-ad8e-4618-8164-19dd8597977b" "PDF ‑ 1.0 MB" %}})
 - Reporters Without Borders, The Internet Under Surveillance: China
